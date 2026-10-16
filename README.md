@@ -1,5 +1,21 @@
 # NebulaX — Smart Commuter Companion
 
+## 🏆 Awards
+
+<a href="https://www.credly.com/badges/59b254a6-4a56-4676-881a-565dda1c87a4/public_url">
+  <img src="docs/assets/nebulax-innovation-excellence-badge.png" alt="Nebula X Hackathon 2026 – Innovation Excellence Award (Most Unique)" width="160" align="left">
+</a>
+
+**Nebula X Hackathon 2026 — Innovation Excellence Award (Most Unique)**
+
+Organised by the Land Transport Authority (LTA), NUS College of Design and Engineering and Google Cloud.
+
+[Verify on Credly →](https://www.credly.com/badges/59b254a6-4a56-4676-881a-565dda1c87a4/public_url)
+
+<br clear="left">
+
+---
+
 A mobile-first web app for **Mr Tan, 74** — retired, understands mainly Mandarin, with early-stage
 dementia and poor mobility — who travels from Ang Mo Kio to Tan Tock Seng Hospital every two weeks
 for a fixed-time appointment. His daughter **Mei Ling** sets it up with him; from then on it plans a
